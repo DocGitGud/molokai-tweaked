@@ -82,7 +82,7 @@ hi Operator        guifg=#F92672
 
 " complete menu
 hi Pmenu           guifg=#D1D3DB guibg=#232526 "hi Pmenu           guifg=#D1D3DB guibg=#151516
-hi PmenuSel        guifg=#403D3D guibg=#D1D3DB "hi PmenuSel        guifg=#293739 guibg=#FD971F
+hi PmenuSel        guifg=#293739 guibg=#D1D3DB "hi PmenuSel        guifg=#293739 guibg=#FD971F
 hi PmenuSbar                     guibg=#080808 "hi PmenuSbar                     guibg=#080808
 hi PmenuThumb      guifg=#66D9EF               "hi PmenuThumb      guifg=#66D9EF
 "#66D9EF
